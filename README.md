@@ -2,11 +2,6 @@
 
 This repository demonstrates how to use GitHub Actions to automatically compile and test a simple C program every time you push or create a pull request to the `main` branch. The action installs GCC, compiles the C program, and runs it, ensuring that the program is functional.
 
-## License
-
-MIT License  
-Copyright (c) 2025 Max Base
-
 ## Usage
 
 ### 1. Clone the Repository
